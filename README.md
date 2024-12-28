@@ -1,7 +1,7 @@
 # Ah yes, the fated checkpoints.
 just use /function komi:start to get the tools
 
-TODO:
+### TODO:
     1.21.4
         - fix click detection
 
