@@ -9,8 +9,8 @@ scoreboard objectives remove total_gocheck
 scoreboard objectives remove total_setcp
 scoreboard objectives remove yaw
 
-clear @a carrot_on_a_stick{komitool:1}
-clear @a carrot_on_a_stick{komitool:2}
-clear @a carrot_on_a_stick{komitool:3}
+clear @a carrot_on_a_stick[custom_data={komitool:1}]
+clear @a carrot_on_a_stick[custom_data={komitool:2}]
+clear @a carrot_on_a_stick[custom_data={komitool:3}]
 
 kill @e[type=armor_stand,tag=checkpoint]
