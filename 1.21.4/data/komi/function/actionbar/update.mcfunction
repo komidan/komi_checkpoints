@@ -1,0 +1,2 @@
+# call title with text json object
+title @s actionbar ["", {"text": "CP: ","color": "gray"},{"color":"#d19ae3","score":{"name":"@s","objective":"total_setcp"}}, {"text": " GC: ", "color": "gray"},{"color":"#d19ae3","score":{"name":"@s","objective":"total_gocheck"}}]
