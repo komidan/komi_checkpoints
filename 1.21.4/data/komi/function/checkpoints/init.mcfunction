@@ -10,4 +10,4 @@ scoreboard objectives add total_gocheck dummy "total gocheck count"
 scoreboard objectives add total_setcp dummy "total setcp amount"
 
 # click detection
-scoreboard objectives add click_detection minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add click_detection minecraft.used:warped_fungus_on_a_stick

@@ -1,5 +1,6 @@
-# reset all scoreboards to 0 for new run
 scoreboard players set @a click_detection 0
+
+# reset all scoreboards to 0 for new run
 scoreboard players set @a total_gocheck 0
 scoreboard players set @a total_setcp 0
 scoreboard players set @a posX 0
